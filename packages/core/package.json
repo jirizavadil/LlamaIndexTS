@@ -1,7 +1,7 @@
 {
-  "name": "llamaindex",
+  "name": "@jirizavadil/llamaindex",
   "private": true,
-  "version": "0.1.10",
+  "version": "0.1.10-jz",
   "license": "MIT",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.13.0",
